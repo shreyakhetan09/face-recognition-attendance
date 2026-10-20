@@ -13,6 +13,12 @@ timestamp — then exports the day's attendance as both a CSV and a PDF report.
   <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
 </p>
 
+**Use case.** A classroom or office check-in desk: register once, then
+attendance is a glance at the webcam — no paper sheet, no proxy names,
+and a dated CSV / PDF ready for the admin.
+
+![Live recognition](https://user-images.githubusercontent.com/79561540/228186033-fad84b90-7baf-436c-955b-d428a3ab38ef.png)
+
 ---
 
 ## Why it matters
@@ -110,6 +116,5 @@ Attendance/
 
 ![Home / attendance view](https://user-images.githubusercontent.com/79561540/228186638-617a8fdd-d722-4830-ae1e-46602215dde2.png)
 ![Registering a user](https://user-images.githubusercontent.com/79561540/228185832-a18bc010-35e1-45d9-8691-8310ba7526f7.png)
-![Live recognition](https://user-images.githubusercontent.com/79561540/228186033-fad84b90-7baf-436c-955b-d428a3ab38ef.png)
 ![Attendance table](https://user-images.githubusercontent.com/79561540/228186374-5dda2a3c-2860-4866-b05f-5fa397c4bb55.png)
 ![PDF report](https://user-images.githubusercontent.com/79561540/228186460-4aaf6114-42b1-4c53-b084-b820094c9649.png)
