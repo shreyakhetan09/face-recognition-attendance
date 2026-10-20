@@ -1,0 +1,4 @@
+# Keep the language stats focused on the actual source
+*.html linguist-detectable=false
+haarcascade_frontalface_default.xml linguist-generated=true
+env/** linguist-vendored=true
